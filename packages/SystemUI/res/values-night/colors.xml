@@ -21,6 +21,9 @@
     It's fine to override this color since at that point the shade was dark. -->
     <color name="notification_legacy_background_color">@color/GM2_grey_900</color>
 
+    <!-- reTicker -->
+    <color name="reticker_background_color">@android:color/system_neutral1_800</color>
+
     <!-- The color of the dividing line between grouped notifications. -->
     <color name="notification_divider_color">@*android:color/background_device_default_dark</color>
 

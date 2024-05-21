@@ -6014,6 +6014,24 @@ public final class Settings {
         public static final String TORCH_POWER_BUTTON_GESTURE = "torch_power_button_gesture";
 
         /**
+         * reTicker Status
+         * @hide
+         */
+        public static final String RETICKER_STATUS = "reticker_status";
+
+        /**
+         * reTicker Colored
+         * @hide
+         */
+        public static final String RETICKER_COLORED = "reticker_colored";
+
+        /**
+         * Only enable reTicker in landscape mode
+         * @hide
+         */
+        public static final String RETICKER_LANDSCAPE_ONLY = "reticker_landscape_only";
+
+        /**
          * Controls whether double tap to sleep is enabled (on lockscreen/homescreen).
          * @hide
          */
